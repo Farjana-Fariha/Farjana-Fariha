@@ -1,4 +1,4 @@
-# Hello i am Farjana Fariha
+# Hi, I'm Farjana Fariha
 <br />
 
 I'm a self-taught passionate FrontEnd developer from Bangladesh
@@ -7,7 +7,7 @@ I'm a self-taught passionate FrontEnd developer from Bangladesh
 
 
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+
 
 - ❤️ I love writing raw javascript, and building fun experiments 
 
@@ -23,6 +23,6 @@ I'm a self-taught passionate FrontEnd developer from Bangladesh
    
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
