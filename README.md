@@ -9,7 +9,7 @@ I'm a self-taught passionate FrontEnd developer from Bangladesh
 
 
 - 🏃 I’m currently working on [Aveneu](https://github.com/orgs/intlify/projects/1) projects and projects within the React.js
-- ❤️ I love writing vanilla javascript, and building fun experiments 
+- ❤️ I love writing vanilla javascript, and building fun experiments with DOM
 - 🌱 I’m currently interested in the future frontend developer
 - 💬  If you are interested in me, please contact me via farjanafariha@outlook.com
 
